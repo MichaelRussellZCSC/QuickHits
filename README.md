@@ -1,2 +1,4 @@
 # QuickHits
-This folder is to provide quick hit summaries faced when becoming a full-stack developer
+Starting off to become a full-stack developer can be a daunting task if you are picking this up as a project on your own. There are a million articiles, training courses and people competing for your attention but it can all seem a bit intimidating at best and confusing even on a good day.  I decided to create this repository to highlight some key checkpoints I went through and what I found to be helpful along the way.  I will also let you know what I found to be distracting or didn't provide the value for money I was expecting.  These are all my opinions.  Your path will look different from mine.  The intent of this is to help you on your journey and for me to share with the community what has helped me along the way.
+
+
